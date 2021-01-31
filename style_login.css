@@ -1,0 +1,44 @@
+body{
+    height: 100%;
+    background-color: rgb(211, 214, 214);
+    margin: 0;
+}
+
+.body{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.input{
+    height: 40px;
+    width: 270px;
+    
+}
+
+.btn{
+    height: 40px;
+    width: 270px;
+    color: white;
+    background-color: rgb(72, 27, 236);
+}
+
+.login-form{
+    background-color: white;
+    padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 60px;
+}
+.container{
+    margin-bottom: 70px;
+}
+
+.footer{
+    background-color: white;
+    padding-left: 100px;
+    padding-top: 20px;
+    padding-right: 100px;
+
+    /* margin-bottom: 0; */
+}
