@@ -1,7 +1,7 @@
 # Facebook-Frontend-Clone
 
 I have only implemented the UI of Facebook. 
-Only anchor tag is used to link between pages.
+Anchor tag is used to link between pages.
 
 
 
